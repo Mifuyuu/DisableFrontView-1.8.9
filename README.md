@@ -1,0 +1,1 @@
+The Disable Front Perspective mod enhances gameplay immersion by disabling the front-facing third-person camera view (front perspective). When toggling the third-person perspective using the F5 key, this mod ensures you can only switch between the first-person view and the rear-facing third-person view.
