@@ -1,0 +1,16 @@
+[
+{
+  "modid": "disablefrontview",
+  "name": "DisableFrontView",
+  "description": "The DisableFrontView mod will remove the front camera view when you switch views.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_Tsuzaki (ign KhaiThoMx)"],
+  "credits": "",
+  "logoFile": "assets/icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
